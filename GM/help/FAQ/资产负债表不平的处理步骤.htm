@@ -1,0 +1,46 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>资产负债表不平的处理步骤</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" height="7">
+  <tr>
+    <td width="100%" bgcolor="#BFEBFF" height="33">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" align="center">
+      <b><font face="楷体_GB2312" size="5">资产负债表不平的处理步骤</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%" height="33">
+    <div id="bbsdetail1" style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 12px">
+      <p style="line-height: 150%"><font size="2">1. 
+      检查是否完成了当月的期末结转损溢操作<br>
+      2. 进入报表，点击“计算”按钮，刷新数据<br>
+      3. 检查“试算平衡表”，看看期末余额借贷是否相等<br>
+      <br>
+      如相等则多半是报表公式问题<br>
+      （1）检查“待处理财产损溢”是否有余额，若有余额，则需要在报表中添加相关公式；<br>
+      （2）是否删除会计科目，在报表中会出现红色标记，删除已被删除的会计科目<br>
+      （3）添加了“一级”会计科目，在报表中相应添加计算公式，<font color="#0000ff">查询是否添加一级科目的方法：将资产负债表的资产和负债类的期末合计数相减，得到的差额在试算平衡表中去查询是否有相同的数。</font><br>
+      <br>
+      不等则是当月的数据结转不成功，需要反结帐或是使用“回到期初”补丁，重新记帐，结转损溢。<br>
+      <br>
+      4. 
+      是否有删除或分类已经有数据的会计科目，使用语句查询，然后将其恢复为原始状态<br>
+      －－－－－－－－－－－<br>
+      select * from dlycw where atypeid not in (select typeid from atypecw where 
+      sonnum='0 'and deleted='0')</font>
+    </div>
+    <p>　
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>

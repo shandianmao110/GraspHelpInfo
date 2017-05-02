@@ -1,0 +1,277 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="1795">
+  <tr>
+    <td width="100%" height="25">
+    <p align="left"><font size="2"><b>单元格文本格式</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="1743">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+      　　在单元格格式代码中最多指定四个节。这些节是以分号分隔的，它们顺序定义了格式中的正数、负数、零和文本。如果只指定两个节，则第一部分用于表示正数和零，第二部分用于表示负数。如果只指定一个节，则所有数字都会使用该格式。如果要跳过某一节，则对该节仅使用分号即可。</font> 
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+    （1）关于数值的数字格式代码<br>
+    &#8226; # 只显示有意义的数字而不显示无意义的零。<br> 
+    &#8226; 如果数字位数少于格式中的零的个数，则 0 （空）将显示无意义的零。<br> 
+    &#8226; ? 当设置为等宽字体（例如：Courier New）时，为无意义的零在小数点两边添加空格。可以对具有不等长数字的分数使用 ?。<br> 
+    &#8226; % 使用百分数。<br> 
+    &#8226; E-、E+、e-和e+ 以科学计数法显示数字。在格式代码中，如果指数代码的右侧含有 0（零）或 #（数字符号），GraspReport  
+    将按科学计数法显示数字，并插入 E 或 e。右侧 0 或 # 的代码个数决定了指数的位数，E- 或 e- 将在指数中填加负号。E+ 或 e+  
+    在正指数时填加正号，负指数时填加减号。<br>
+    &#8226; $ 贷币符号，在单元格中的数字前￥符号</font></p> 
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+    （2）关于文本和间距的数字格式代码<br>
+    　　要在单元格中同时显示文本和数字，可将文本字符括在双引号（&quot; &quot;）中，或在单个字符前加反斜线（\）。应将字符放在格式代码的合适部分中。例如，键入格式  
+    $0.00&quot; Surplus&quot;;$-0.00&quot; Shortage&quot; 以便将负值显示为“$-125.74 Shortage”。如果是显示这些特殊字符：$  
+    - + / ( ) : ! ^ &amp; '（左单引号） '（右单引号） ~ { } = &lt; &gt; 等，则不需要用引号括起来。</font> </p> 
+      <ul>
+        <li>
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;包括文本部分  
+    如果包含文本格式部分，则文本部分总是数字格式的最后一个部分。若要在数字格式中包括文本部分，请在要显示输入单元格中的文本的地方加入符号（@），如果文本部分中没有（@），所输入文本将不会显示出来。如果要一直显示某些带有输入文本的指定文本字符，就应将附加文本用双引号（&quot;  
+    &quot;）括起来，例如，&quot;gross receipts for&quot; @。 <br> 
+    在不包含文本部分的格式中，所输入的文本对格式没有影响。 <br>
+          　</font></li>
+        <li>
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">添加空格  
+    如果要在数字格式中创建一个字符宽的空格，请在字符前加上一条下划线（_），例如，在下划线后跟上一个右括号（_)），可使正数和括号内的负数对齐。<br>
+          　</font></li>
+        <li>
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">重复字符 若要在格式中多次重复一个字符以填满列宽，请在数字格式中加入星号（*）。例如，键入  
+    0*-可在单元格中的数字后重复填加破折号以填充单元格。<br>
+          　</font></li>
+      </ul>
+    <p><font size="2">（3）关于日期时间格式代码</font></p>
+    <table border="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="63%" id="AutoNumber2">
+      <tr>
+        <td width="60%"><font size="2">标识</font></td>
+        <td width="40%"><font size="2">使用代码</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">月份（1-12）</font></td>
+        <td width="40%"><font size="2">M</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">月份（01-12）</font></td>
+        <td width="40%"><font size="2">Mm</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">月份（一月-十二月）</font></td>
+        <td width="40%"><font size="2">Mmm</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">月份（一月-十二月）</font></td>
+        <td width="40%"><font size="2">Mmmm</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">日（1-31）</font></td>
+        <td width="40%"><font size="2">D</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">日（01-31）</font></td>
+        <td width="40%"><font size="2">Dd</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">年（00-99）</font></td>
+        <td width="40%"><font size="2">Yy</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">年（1900-9999）</font></td>
+        <td width="40%"><font size="2">Yyyy</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">小时（0-23）</font></td>
+        <td width="40%"><font size="2">H</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">小时（00-23）</font></td>
+        <td width="40%"><font size="2">Hh</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">分钟（0-59）</font></td>
+        <td width="40%"><font size="2">M</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">分钟（00-59）</font></td>
+        <td width="40%"><font size="2">Mm</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">秒（0-59）</font></td>
+        <td width="40%"><font size="2">S</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">秒（00-59）</font></td>
+        <td width="40%"><font size="2">Ss</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">以小时计算的一段时间，如 25.02</font></td> 
+        <td width="40%"><font size="2">[h]:mm</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">以分钟计算的一段时间，如 63:46</font></td> 
+        <td width="40%"><font size="2">[mm]:ss</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">以秒计算的一段时间</font></td>
+        <td width="40%"><font size="2">[ss]</font></td>
+      </tr>
+      <tr>
+        <td width="60%"><font size="2">百分之几秒</font></td>
+        <td width="40%"><font size="2">h:mm:ss.00</font></td>
+      </tr>
+    </table>
+    <p><font size="2">
+    <br>
+    （4）GraspReport System格式说明<br> 
+    　</font></p>
+    <table border="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+      <tr>
+        <td width="38%"><font size="2">格式</font></td>
+        <td width="62%"><font size="2">说明</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">0</font></td>
+        <td width="62%"><font size="2">数值，无小数位数</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">0.00</font></td>
+        <td width="62%"><font size="2">小数位数两位</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">#,##0</font></td>
+        <td width="62%"><font size="2">使用千位分隔符，无小数位数</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">#,##0.00</font></td>
+        <td width="62%"><font size="2">使用千位分隔符，小数位数两位</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">($#,##0_);($#,##0)</font></td>
+        <td width="62%"><font size="2">千位分隔符表示的货币，正数为：￥3,432 ，负数为(￥3,432)。</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">($#,##0_);[Red]($#,##0)</font></td>
+        <td width="62%"><font size="2">正数为￥3,432 ，负数为(￥3,432)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">($#,##0.00_);($#,##0.00)</font></td>
+        <td width="62%"><font size="2">正数为￥3,432.00 ，负数为(￥3,432.00)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">($#,##0.00_);[Red]($#,##0.00)</font></td>
+        <td width="62%"><font size="2">正数为￥3,432.00 ，负数为(￥3,432.00)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">0%</font></td>
+        <td width="62%"><font size="2">百分比，无小数</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">0.00%</font></td>
+        <td width="62%"><font size="2">百分比，二位小数</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">0.00E+00</font></td>
+        <td width="62%"><font size="2">科学记数法</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">m/d/yy</font></td>
+        <td width="62%"><font size="2">3/23/04</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">d-mmm-yy</font></td>
+        <td width="62%"><font size="2">23-十一月-04</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">d-mmm</font></td>
+        <td width="62%"><font size="2">23-十一月</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">mmm-yy</font></td>
+        <td width="62%"><font size="2">十一月-04</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">h:mm</font></td>
+        <td width="62%"><font size="2">AM/PM 8:20 AM</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">h:mm:ss</font></td>
+        <td width="62%"><font size="2">AM/PM 8:20:23 AM</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">h:mm</font></td>
+        <td width="62%"><font size="2">18:20</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">h:mm:ss</font></td>
+        <td width="62%"><font size="2">18:20:23</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">m/d/yy h:mm</font></td> 
+        <td width="62%"><font size="2">3/23/04 18:20</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">(#,##0_);(#,##0)</font></td>
+        <td width="62%"><font size="2">正数为3,432 ，负数为(3,432)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">(#,##0_);[Red](#,##0)</font></td>
+        <td width="62%"><font size="2">正数为3,432 ，负数为(3,432)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">(#,##0.00_);(#,##0.00)</font></td>
+        <td width="62%"><font size="2">正数为3,432.00 ，负数为(3,432.00)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">(#,##0.00_);[Red](#,##0.00)</font></td>
+        <td width="62%"><font size="2">正数为3,432.00 ，负数为(3,432.00)</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</font></td> 
+        <td width="62%"><font size="2">正数为 3,432 ，负数为(3,432)</font><p><font size="2">0为 – ， 文本为@前面以空格填列</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</font></td> 
+        <td width="62%"><font size="2">正数为 ￥3,432 ，负数为(￥ 3,432 )<br> 
+        0为￥ – ， 文本后加一空格</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</font></td> 
+        <td width="62%"><font size="2">正数为 3,432.00 ，负数为(3,432.00)<br> 
+        0为 – ， 文本后加一空格</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</font></td> 
+        <td width="62%"><font size="2">正数为￥ 3,432.00 ，负数为(￥ 3,432.00)<br> 
+        0为￥ – ， 文本后加一空格</font></td> 
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">mm:ss</font></td>
+        <td width="62%"><font size="2">分秒：33:30</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">[h]:mm:ss</font></td>
+        <td width="62%"><font size="2">0:33:30</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">mm:ss.0</font></td>
+        <td width="62%"><font size="2">33:30.0</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2"># #0.0E+0</font></td> 
+        <td width="62%"><font size="2">科学记数法，小数前三位，小数位数1位</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">dd/mm/yyyy</font></td>
+        <td width="62%"><font size="2">23/11/2004</font></td>
+      </tr>
+      <tr>
+        <td width="38%"><font size="2">dd.mmmm.yy</font></td>
+        <td width="62%"><font size="2">23.十一月.04</font></td>
+      </tr>
+    </table>
+      <p><font size="2">&nbsp;</font></td>
+  </tr>
+</table>
+</html>

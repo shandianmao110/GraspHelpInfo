@@ -1,0 +1,38 @@
+<title>外币净额</title>
+<table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <p align="left" style="line-height: 150%; margin-top: 0; margin-bottom: 0"><b><font size="2">外币净额</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+    外币净额用于取得指定科目指定期间借贷之间的外币差额。净额函数不包括结转损益部分。<br>
+    <br>
+      <b>
+    格式：</b><br>
+    wJE(〈科目编码〉,〈会计期间〉, [〈编码部门〉],[〈编码员工〉], [〈编码往来单位〉] , [〈编码项目〉] ,  
+    [〈编码5预留〉],[〈是否包含未记账〉]) <br>
+    <br>
+      <b>
+    参数说明：</b><br>
+    〈科目编码〉为指定科目的编码。格式为单引号括起来如: ’1001’<br> 
+    〈会计期间〉为指定的会计期间。格式有当前月（’’）, 当前上月（’s’）,关键字月(‘m’),  
+    关键字上月(‘m-1’),1到12数字表示的月份0表示年初数据。如果输入的数值小余开账月份，则取值为期初数据。<br>
+    <br>
+    〈编码部门〉,〈编码员工〉,〈编码往来单位〉,〈编码项目〉为辅助核算项目，输入辅助核算项目后，只有辅助核算发生的凭证才会进入统计范围。<br>
+    〈编码5预留〉未使用。<br>
+    〈是否包含未记账〉用于判断是否统计的凭证需要记账。0表示不包括未记账，1表示包括。<br>
+    <br>
+    例：<br>
+    取’100201’科目的关键字月份外币净额<br>
+    wJE ('100201','m','','','','','',0 )<br> 
+      　</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">　</font></p>
+    </td>
+  </tr>
+</table>

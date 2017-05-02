@@ -1,0 +1,285 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>负库存的产生及解决办法</title>
+</head>
+
+<body>
+
+<blockquote>
+	<table border="0" width="100%" height="7">
+		<tr>
+			<td width="100%" bgcolor="#CCCCFF" height="33" align="left">
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0" align="left">
+			<b><font face="楷体_GB2312" size="2">负库存的产生及解决办法</font></b></td>
+		</tr>
+		<tr>
+			<td width="100%" height="33">
+			<blockquote>
+				<p style="text-indent: 0; mso-char-indent-count: -2.0; mso-char-indent-size: 10.55pt; line-height: 150%; margin-left: 0">
+				<font size="2">&nbsp;&nbsp; 软件中允许负库存现象，但是负库存会造成商品成本，以及利润的异常，因此在使用负库存时应时刻注意库存成本的变化，并及时调整，让库存随时保持在一个正常的水平。</font></p>
+				<p style="text-indent: 0; mso-char-indent-count: -2.0; mso-char-indent-size: 10.55pt; line-height: 100%; margin-left: 0">
+				<b><font size="2">
+				<span style="mso-hansi-font-family: Times New Roman; color: blue">在《管家婆》系统中有时会出现商品成本为负的情况，原因何在？<span lang="EN-US"><o:p>
+				</o:p></span></span></font></b></p>
+				<p style="text-indent: 0; mso-char-indent-count: .01; mso-char-indent-size: 10.0pt; line-height: 150%; margin-left: 0">
+				<font size="2"><b>
+				<span style="mso-hansi-font-family: Times New Roman">解答：</span></b><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">《管家婆》是一个以能处理任何规范或“不规范”的商业事实为目的的全面管账系统。其最根本的特点是实用。它能处理甚至是“不规范”的商业事实，并全部自动核算。例如允许“先卖后买”等不规范的商业行为，为了能对这种行为提供系统支持，本系统中向用户提供了全月一次加权平均法、移动加权平均法以及个别计价法。</span></font></p>
+				<p style="line-height: 150%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;如选择加权平均法计算成本系统可允许商品库存为负数，在此前题下如遇一些特殊情况，会造成一些看似不合理的现象。如：库存余量为正，而库存金额为负（或库存余量为负而库存金额为正）；发生一笔销售却造成利润的减少（甚而出现利润为负的情况）。以下将对造成这些现象的原因和补救
+	措施进行详细阐述。</span></font></p>
+				<p style="text-indent: 0; mso-char-indent-count: 2.0; mso-char-indent-size: 10.55pt; line-height: 100%; margin-left: 0">
+				<b style="mso-bidi-font-weight:normal"><font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">现象原因：</span><span lang="EN-US"><o:p>
+				</o:p></span></font></b></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    本系统对商品进出成本单价按<b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><u>加权平均法</u></i></b>进行计算，其具体公式如下：</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    商品成本单价（简称成本单价）</span><span lang="EN-US">= </span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">商品库存金额</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">商品库存余量</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    销售时：库存金额</span><span lang="EN-US">=</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">上次库存金额</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">—</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本单价</span><span lang="EN-US">*</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">出库数量</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    			采购时：库存金额</span><span lang="EN-US">=</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">上次库存金额</span><span lang="EN-US"> 
+    + </span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本单价</span><span lang="EN-US">*</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">进库数量</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    销售成本</span><span lang="EN-US">=</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售量</span><span lang="EN-US">*</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本单价</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    销售收入</span><span lang="EN-US">=</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售量</span><span lang="EN-US">*</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售单价</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;  
+    销售毛利</span><span lang="EN-US">=</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售收入—销售成本</span></font></p>
+			</blockquote>
+			<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+			<span lang="EN-US"><font size="2">&nbsp;</font></span></p>
+			<blockquote>
+				<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">下面我们将以一具体实例来说明上述貌似不
+	合理现象出现的原因：</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">1</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">）</span><span lang="EN-US">2.19  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">进</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">4</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">进价</span><span lang="EN-US">900.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span style="mso-spacerun:
+yes" lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    此时库存余量为</span><span lang="EN-US">4</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span style="mso-spacerun: yes" lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">库存金额为</span><span lang="EN-US">4*900=3600.00(</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)<span style="mso-spacerun: yes">&nbsp;</span></span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    成本单价为</span><span lang="EN-US">900.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<span lang="EN-US"><font size="2">2)&nbsp;  
+    2.20<span style="mso-spacerun: yes">&nbsp; </span></font></span>
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">10</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">售价</span><span lang="EN-US">1000.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    此时库存余量为</span><span lang="EN-US">-6</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span style="mso-spacerun: yes" lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">库存金额为</span><span lang="EN-US">3600</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">—</span><span lang="EN-US">10*900= 
+    -5400.00(</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    销售毛利</span><span lang="EN-US">=10*1000-10*900=1000(</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;  
+    			</span></span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本单价不变仍为</span><span lang="EN-US">900</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<span lang="EN-US"><font size="2">3)&nbsp;&nbsp;  
+    2.21 </font></span><font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">
+				采购</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">7</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">进价</span><span lang="EN-US">750.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    此时库存余量为</span><span lang="EN-US">1<span style="mso-spacerun: yes">&nbsp;  
+    			</span></span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">库存金额为</span><span lang="EN-US"> 
+    -5400+750*7= -150(</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)<span style="mso-spacerun: yes">&nbsp;&nbsp;</span></span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    			<u>成本单价为</u></span><u><span lang="EN-US">-150</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span></u></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">4)&nbsp;&nbsp;  
+    2.25 </span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">5</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">售价</span><span lang="EN-US">1000.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    			<u>此时库存余量为</u></span><u><span lang="EN-US">-4</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">库存金额为</span>
+				<span lang="EN-US">–150</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">—</span><span lang="EN-US">5*</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">（</span><span lang="EN-US">-150</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">）</span><span lang="EN-US">=600  
+    (</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)</span></u><span style="mso-spacerun: yes" lang="EN-US">&nbsp;</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    销售毛利</span><span lang="EN-US">=5*1000-5*(-150)=2000<span style="mso-spacerun: yes">&nbsp;&nbsp;  
+    			</span></span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本单价为</span><span lang="EN-US">600/-4=  
+    -150</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">（元）</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<b style="mso-bidi-font-weight:
+normal"><i style="mso-bidi-font-style:normal"><font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp; 注：此时已出现库存数量为负而库存金额为正的情况。</span><span lang="EN-US"><o:p>
+				</o:p></span></font></i></b></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">5</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">）</span><span lang="EN-US">2.26  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">购进</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">5</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台，进价</span><span lang="EN-US">750.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    此时库存余量为</span><span lang="EN-US">1</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">库存金额为</span><span lang="EN-US"> 
+    600+750*5 = 4350</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">（元）</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<span lang="EN-US"><font size="2">6</font></span><font size="2"><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">）</span><span lang="EN-US">2.28  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">销售</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">10</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">售价</span><span lang="EN-US">1000.00</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    此时库存余量为</span><span lang="EN-US">-9</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">库存金额为</span><span lang="EN-US">4350-10*4350=  
+    -39150</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    			<u>销售毛利</u></span><u><span lang="EN-US">=10*1000</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">—</span><span lang="EN-US">10*4350= 
+    -33500 (</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)</span></u></font><font size="2"><span lang="EN-US">
+				</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本单价为</span><span lang="EN-US">4350</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><u><span lang="EN-US"><o:p>
+				</o:p></span></u></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">
+				<i style="mso-bidi-font-style: normal; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: normal">
+				<b style="mso-bidi-font-weight: normal; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-style: normal">&nbsp;</b></i><b style="mso-bidi-font-weight: normal; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-style: normal"><i style="mso-bidi-font-style: normal; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: normal">
+				</i></b><i style="mso-bidi-font-style:normal">
+				<b style="mso-bidi-font-weight:
+normal">注：此时已出现销售利润为负的情况。</b></i></span><b style="mso-bidi-font-weight:
+normal"><i style="mso-bidi-font-style:normal"><span lang="EN-US"><o:p> </o:p>
+				</span></i></b></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<span lang="EN-US"><font size="2">7)&nbsp;&nbsp;  
+    2.29 </font></span><font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">购进</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机</span><span lang="EN-US">9</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台，进价</span><span lang="EN-US">750</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;  
+    此时库存余量为</span><span lang="EN-US">0</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，库存成本单价为</span><span lang="EN-US">0</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元，库存金额为</span><span lang="EN-US">-2400</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元。</span></font></p>
+				<p style="text-indent: 0; line-height: 100%; margin-left: 0">
+				<span lang="EN-US"><font size="2">&nbsp;</font></span><b style="mso-bidi-font-weight:normal"><font size="2"><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: red">解决方法</span></font></b><font size="2"><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: red">：</span><span lang="EN-US" style="color:red"><o:p>
+				</o:p></span></font></p>
+				<p style="text-indent: 0; mso-list: l3 level1 lfo1; tab-stops: list 21.25pt; line-height: 100%; margin-left: 0">
+				<font size="2"><font color="#FF0000"><span lang="EN-US">I.  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">当前库存商品数量为正：</span></font><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">如有类似以上不合理的情况出现时可以调用</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">业务录入</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">中的</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">调价单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">功能</span><span lang="EN-US">,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">即时调整商品单价，既可改变以上情况，如：上例在第三笔业务发生后即时进行单价调整将</span><span lang="EN-US">1</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台</span><span lang="EN-US">986</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">游戏机的成本单价调为</span><span lang="EN-US">800.00(</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">)</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，此时系统会自动对有关部份进行修改，使业务恢复正常。</span></font><span lang="EN-US"><font size="2">&nbsp;<o:p>
+				</o:p></font></span></p>
+				<p style="text-indent: 0; mso-list: l1 level1 lfo2; tab-stops: list 21.0pt; line-height: 100%; margin-left: 0">
+				<font size="2"><font color="#FF0000"><span lang="EN-US">II.  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">当前库存商品数量为负：</span></font><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">如有类似以上不合理的情况出现时用户可以使用以下方法进行修整。</span></font></p>
+				<p style="text-indent: 0; mso-list: l0 level1 lfo3; tab-stops: list 15.75pt; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">1）  
+    </span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">先在</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">业务录入</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">模块中录一</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">报溢单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">将库存数量改为零，过账后系统会自动将商品库存数量和库存金额改为零。如：在此笔业务中先生成一数量为</span><span lang="EN-US">9</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">的</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">报溢单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，过账后商品库存数量和金额均会变为零。</span></font></p>
+				<p style="text-indent: 0; mso-list: l0 level1 lfo3; tab-stops: list 15.75pt; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">2）  
+    </span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">再录入一</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">报损单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">其商品数量等于原库存数量的绝对值（及报溢数量），录入时系统会</span><span style="mso-spacerun: yes" lang="EN-US">&nbsp;  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">自动提示你输入成本单价，此时只需输入正常单价即可。如：在上例中再录入一</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">报损单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，报损商品数量为</span><span lang="EN-US">9</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，并在系统提示后输入正确的成本单价（</span><span lang="EN-US">800</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">元</span><span lang="EN-US">/</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">台），过账后数据恢复正常。</span></font></p>
+				<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2"><font color="#FF0000"><span lang="EN-US">III.  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">当</span></font><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: red">前库存金额为负，成本单价为</span><span lang="EN-US" style="color:red">0</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: red">，数量为</span><span lang="EN-US" style="color:red">0</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">：</span></font></p>
+				<p style="text-indent: 0; mso-list: l2 level1 lfo4; tab-stops: list 21.0pt; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">1.<span style="font-style: normal; font-variant: normal; font-weight: normal">&nbsp;  
+    			</span></span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">先做一</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">报溢单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">数量为</span><span lang="EN-US">1</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，此时库存数量为</span><span lang="EN-US">1,</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本均价为</span><span lang="EN-US">33150,</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本金额为</span><span lang="EN-US">33150</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">。</span></font></p>
+				<p style="text-indent: 0; mso-list: l2 level1 lfo4; tab-stops: list 21.0pt; line-height: 100%; margin-left: 0">
+				<font size="2"><span lang="EN-US">2.<span style="font-style: normal; font-variant: normal; font-weight: normal">&nbsp;&nbsp;  
+    			</span></span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">再做一</span><span lang="EN-US">&lt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">报损单</span><span lang="EN-US">&gt;</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">数量为</span><span lang="EN-US">1</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">，此时库存数量调整为</span><span lang="EN-US">0,  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本均价为</span><span lang="EN-US">0,</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">成本金额为</span><span lang="EN-US">&shy;0.</span></font></p>
+				<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2"><font color="#FF0000">
+				<span style="font-style: normal; font-variant: normal; font-weight: normal; mso-bidi-font-weight: bold" lang="EN-US">IV.&nbsp;  
+    			</span>
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">当</span></font><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: red; mso-bidi-font-weight: bold">前库存商品数量为正，但成本均价为负的情况</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">：</span><span lang="EN-US" style="mso-bidi-font-weight: bold"><o:p>
+				</o:p></span></font></p>
+				<p style="mso-line-height-alt: 0pt; line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">例如：当库存数量为</span><span lang="EN-US" style="mso-bidi-font-weight: bold">5</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">，成本均价为</span><span lang="EN-US" style="mso-bidi-font-weight: bold">-3000</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">时，（正确为</span><span lang="EN-US" style="mso-bidi-font-weight: bold">6000</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">），怎样调节成本均价？</span><span lang="EN-US" style="mso-bidi-font-weight: bold"><o:p>
+				</o:p></span></font></p>
+				<p style="mso-line-height-alt: 0pt; line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span style="mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">办法：</span><span lang="EN-US" style="mso-bidi-font-size: 12.0pt; mso-bidi-font-weight: bold"><o:p>
+				</o:p></span></font></p>
+				<p style="mso-line-height-alt: 0pt; line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span lang="EN-US" style="mso-bidi-font-weight:bold">1</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">．先做报溢单，数量为</span><span lang="EN-US" style="mso-bidi-font-weight:
+bold">5</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">个，过账时提示输入成本均价，输入</span><span lang="EN-US" style="mso-bidi-font-weight:bold">3500</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">（这个数字大于当前负的成本均价×数量的绝对值，以冲抵负的成本价格，使成本价格转成正数）</span><span lang="EN-US" style="mso-bidi-font-weight:bold"><o:p>
+				</o:p></span></font></p>
+				<p style="mso-line-height-alt: 0pt; line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span lang="EN-US" style="mso-bidi-font-weight:bold">2</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">．做报损单，数量为</span><span lang="EN-US" style="mso-bidi-font-weight:
+bold">5</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">个。</span><span lang="EN-US" style="mso-bidi-font-weight:bold"><o:p>
+				</o:p></span></font></p>
+				<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+				<font size="2">
+				<span lang="EN-US" style="mso-bidi-font-weight:bold">3</span><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-bidi-font-weight: bold">．用调价单调整单价。</span></font></p>
+				<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+				<span lang="EN-US"><font size="2">&nbsp;</font></span><font size="2"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    			</span><b style="mso-bidi-font-weight:
+normal"><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">建议</span></b></font><font size="2"><span style="mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">：经常对库存情况进行检测，当有不合理现象出现时（如：库存数量为负而库存金额为正），及时用调价单对商品成本单价进行调整。</span></font></p>
+			</blockquote>
+			<p style="line-height: 100%; text-indent: 0; margin-left: 0">
+			<span lang="EN-US"><font size="2">&nbsp;</font></span> </td>
+		</tr>
+	</table>
+</blockquote>
+
+</body>
+
+</html>

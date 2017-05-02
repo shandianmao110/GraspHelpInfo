@@ -1,0 +1,134 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>模板订单统计</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" height="40">
+  <tr>
+    <td width="100%" height="36" bgcolor="#DAE6C4">
+      <p align="center"><b><font face="楷体_GB2312" size="5">模板订单统计</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%" height="34" bgcolor="#FFFFFF">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="mso-bidi-font-size: 10.5pt; font-family: 宋体">&nbsp;&nbsp;&nbsp; 
+       
+      </span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="mso-bidi-font-size: 10.5pt; font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;   
+      模板订单统计是针对由生产模板组装而来的商品的统计</span></font><span style="mso-bidi-font-size:10.5pt;font-family:宋体"><font size="2">，例如“联想电脑”由4样配件组成，当销售订单有“联想电脑”100台时，在模板订单统计中可以查询到只针对“联想电脑”的4样配件的库存状况及所需数量，  
+      并且可根据所需配件数量生成进货单或进货订单草稿，</font><span lang="EN-US"><o:p><font size="2">
+      </font>
+      </o:p>
+      </span></span><font size="2"><a href="#" onclick="javascript:d1.style.display=(d1.style.display == 'none') ? '' : 'none'">
+      如图所示</a> 。</font></p>
+      <div id="d1" style="display:none">
+        <p align="center" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+        <font size="2">&nbsp;</font><p align="center" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+        <img border="0" src="模板订单.jpg" width="590" height="296"></div>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" height="34" bgcolor="#FFFFFF">
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <span style="font-family: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;   
+      图中，选中模板名称为“电脑组装”的模板，双击组装商品“联想电脑”，在下部分表体中显示出相关配套商品的信息。“配套数量”、“配套商品”是由生产模板取来的。</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      　</p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <span style="font-family: 宋体"><font size="2">表体内容说明：</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <span style="font-family: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp; <b>  
+      配套数量 </b>：取自模板订单中组装商品所需的配件数；</font></span></p>  
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp; <b>  
+      账面库存数量</b>：当前库存中的商品数量；</span></font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp; <b>  
+      进货订货数量</b>：指进货订单中<font color="#000080">未到货</font>数量；</span></font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp; <b>  
+      销售订货数量</b>：指销售订单中<font color="#000080">未到货</font>数量；</span></font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp; <b>  
+      供应商：</b> 取自基本信息中商品所对应的默认供应商；</span></font></p>  
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </span></font>
+      <span style="font-family: 宋体"><font size="2"><b>计算数量</b></font></span><font size="2"><span lang="EN-US">=  
+      </span><span style="font-family: 宋体">账面库存数量</span> <span lang="EN-US">–  
+      </span></font><span style="font-family: 宋体"><font size="2">销售订货中未到货数量；</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </span></font><span style="font-family: 宋体"><font size="2">&nbsp;&nbsp; 当计算数量</font></span><font size="2"><span lang="EN-US">&lt;   
+      0</span><span style="font-family: 宋体">，</span> </font>  
+      <span style="font-family: 宋体"><font size="2">
+      说明库存数量不够，需要对配件进行加工。配套商品表体中显示“模板所需数量”一列；</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      </span></font><span style="font-family: 宋体"><font size="2">当计算数量</font></span><font size="2"><span lang="EN-US">&gt;=   
+      0</span><span style="font-family: 宋体">，</span> </font>  
+      <span style="font-family: 宋体"><font size="2">
+      说明库存数量充足，不需要对配件进行加工。配套商品表体中不显示“模板所需数量”一列；</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </span></font><span style="font-family: 宋体; font-weight:700"><font size="2">可用数量</font></span><font size="2"><span lang="EN-US"> 
+      = </span><span style="font-family: 宋体">账面库存数量</span> <span lang="EN-US">+  
+      </span><span style="font-family: 宋体">进货订货数量</span> <span lang="EN-US">–  
+      </span></font><span style="font-family: 宋体"><font size="2">销售订货数量&nbsp;   
+      （进货订货数量、销售订货数量均为未到货数量），可点击“公式”按钮进行修改，</font></span><font size="2"><a href="#" onclick="javascript:d2.style.display=(d2.style.display == 'none') ? '' : 'none';return false;">如图所示</a> 
+      。</font></p>
+      <div id="d2" style="display:none">
+        <p align="center" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+        <font size="2"><img border="0" src="库存公式.jpg" width="320" height="194">
+        </font>
+      </div>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <span style="font-family: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  </font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <span style="font-family: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  
+      <b>模板所需数量</b></font></span><font size="2"><span lang="EN-US"> = </span> 
+      <span style="font-family: 宋体">计算数量</span> <span lang="EN-US">x&nbsp;&nbsp; 
+      </span></font><span style="font-family: 宋体"><font size="2">配套数量</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;
+      </span></font><span style="font-family: 宋体"><font size="2"><b>剩余数量</b></font></span><font size="2"><span lang="EN-US"> 
+      = </span><span style="font-family: 宋体">可用数量</span> <span lang="EN-US">–
+      </span></font><span style="font-family: 宋体"><font size="2">模板所需数量</font></span></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><span style="font-family: 宋体">&nbsp;&nbsp;&nbsp;&nbsp; <b>
+      确认数量</b>：用户填写的需要进货的商品数量；</span></font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      　</p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font face="宋体" size="2">按钮说明：</font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp; <b>修改</b>：修改商品对应的供应商，此处的修改仅是在生成草稿时生效，不会修改基本信息中默认的供应商。</font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp; <b>生成草稿</b>： 
+      根据用户输入的确认数量，生成商品的进货单或进货订单草稿。对应相同供应商的商品将会生成一张草稿。</font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp; <b>公式</b>：可以修改“可用数量”计算的公式。</font></p>
+      <p class="MsoNormal" style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp; </font></p>
+      </td>
+  </tr>
+  <tr>
+    <td width="100%" height="34" bgcolor="#FFFFFF">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2" color="#800080"><b>参考资料：</b></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+      <font size="2"><font color="#800080"><b>&nbsp;&nbsp;&nbsp; </b></font>
+      <a href="../进销存管理/库存/生产模板管理.htm">生产模板</a></font><font size="2" color="#800080"><b>&nbsp; 
+      </b></font></p>
+      </td>
+  </tr>
+</table>
+
+</body>
+
+</html>

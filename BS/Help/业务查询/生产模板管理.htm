@@ -1,0 +1,111 @@
+
+
+<head>
+<title>生产模板管理</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" height="502">
+  <tr>
+    <td width="100%" height="72">
+
+<table border="0" width="100%" height="40" id="table1">
+  <tr>
+    <td width="100%" bgcolor="#FFDDFF" height="36">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" align="left">
+		<b><font face="楷体_GB2312" size="2">生产模板管理</font></b></td>
+  </tr>
+</table> 
+ 
+		<blockquote>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+			<font size="2">&nbsp; 如果你经常使用内容相似的组装单、拆分单，可以考虑使用生产模板来进行简化处理。</font><p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+			<font size="2">&nbsp;  
+      初次进入生产模板中，系统没有提供任何模板，需要用户创建。在下述例子中，假使你的存货库中有“主机”、“显示器”两种存货，你经常需要将这两种存货组装生成一种叫“计算机”的存货。</font>
+		</blockquote>
+    </td>  
+  </tr>  
+  <tr>  
+    <td width="100%" height="142">  
+      <blockquote>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">【操作】：业务处理—存货业务—生产模板</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2"><b>功能操作说明：</b></font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">1、单击”生产模板”菜单，进入生产模板界面。点击“新增”后，在界面
+		左上角需要选择模板类型。模板有组装和拆分两种类型。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">2、如果选择了组装模板，录入编号、名称、生成的
+		存货“计算机”，在“该产品由以下存货组成”中录入“主机”，填入“显示器”，以及规格、数量、型号等有关信息。如果配套数量选择为1，表示组装一台计算机需要主机、显示器各一台。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">3、点击“保存”按钮，保存此模板。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">4、回到模板窗口，可以看见模板已经生成，可以通过点击“修改”、“删除”按钮对其进行修改或删除。&nbsp;
+		</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">5、如果选择了拆分模板，录入编号、名称、被拆分的存货“生产计算机”，在“该产品拆分成以下存货”中录入“主机”，填入“显示器”，以及规格、数量、型号、金额拆分比例等有关信息。如果配套数量选择为1，表示组装一台计算机拆分为一台主机、一台显示器。金额拆分比例的合计数应为“1”。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">6、在使用“组装与拆分单”时，可以“调用模板”，并且录入数量。系统会按照模板所示自动生成有关单据。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">【齐套计算】：输入生产数量可以根据库存计算最大成套件的数量</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">【缺料计算】：输入生产数量，可以根据生产数量计算缺货数量。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">【订单统计】：<span style="FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt">模板订单统计是针对由生产模板组装而来的存货的统计，例如“联想电脑”由4样配件组成，当销售订单有“联想电脑”100台时，在模板订单统计中可以查询到只针对“联想电脑”的4样配件的库存状况及所需数量， 
+		并且可根据所需配件数量生成采购单或采购订单草稿。</span></font> </p>
+		<blockquote>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<span style="FONT-FAMILY: 宋体"><font size="2">表体内容说明：</font></span></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<span style="FONT-FAMILY: 宋体"><font size="2"><b>配套数量 </b>：取自模板订单中组装存货所需的配件数；</font></span></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font size="2"><span style="FONT-FAMILY: 宋体"><b>计算数量</b></span><span lang="EN-US">=    
+      		</span><span style="FONT-FAMILY: 宋体">账面库存数量</span>
+			<span lang="EN-US">–    
+      </span><span style="FONT-FAMILY: 宋体">销售订货中未到货数量；</span></font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  
+      		</font></span><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;当计算数量</span><span lang="EN-US">&lt; 0</span><span style="FONT-FAMILY: 宋体">，</span>
+			<span style="FONT-FAMILY: 宋体">说明库存数量不够，需要对配件进行加工。配套存货表体中显示“模板所需数量”一列；</span></font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><font size="2"><span style="FONT-FAMILY: 宋体">当计算数量</span><span lang="EN-US">&gt;=    
+      0</span><span style="FONT-FAMILY: 宋体">，</span>
+			<span style="FONT-FAMILY: 宋体">说明库存数量充足，不需要对配件进行加工。配套
+		存货表体中不显示“模板所需数量”一列；</span></font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font size="2"><span style="FONT-WEIGHT: 700; FONT-FAMILY: 宋体">可用数量</span><span lang="EN-US"> 
+      = </span><span style="FONT-FAMILY: 宋体">账面库存数量</span> <span lang="EN-US">+    
+      		</span><span style="FONT-FAMILY: 宋体">采购订货数量</span>
+			<span lang="EN-US">–    
+      </span><span style="FONT-FAMILY: 宋体">销售订货数量&nbsp; （采购订货数量、销售订货数量均为未到货数量），可点击“公式”按钮进行修改</span>。</font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<span style="FONT-FAMILY: 宋体"><font size="2"><b>模板所需数量</b></font></span><font size="2"><span lang="EN-US"> 
+      = </span><span style="FONT-FAMILY: 宋体">计算数量</span> <span lang="EN-US">x&nbsp;&nbsp; 
+      		</span><span style="FONT-FAMILY: 宋体">配套数量</span></font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font size="2"><span style="FONT-FAMILY: 宋体"><b>剩余数量</b></span><span lang="EN-US"> 
+      = </span><span style="FONT-FAMILY: 宋体">可用数量</span> <span lang="EN-US">–    
+      		</span><span style="FONT-FAMILY: 宋体">模板所需数量</span></font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font size="2"><span style="FONT-FAMILY: 宋体"><b>确认数量</b>：用户填写的需要采购的存货数量；</span></font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">　</p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font face="宋体" size="2">【<b>修改】</b>：修改存货对应的供应商，此处的修改仅是在生成草稿时生效，不会修改基本信息中默认的供应商。</font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font face="宋体" size="2">【<b>生成草稿】</b>：    
+      根据用户输入的确认数量，生成存货的采购单或采购订单草稿。对应相同供应商的存货将会生成一张草稿。</font></p>
+			<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">
+			<font face="宋体" size="2">【<b>公式】</b>：可以修改“可用数量”计算的公式。</font> </p>
+		</blockquote>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">　</p>
+      </blockquote>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5">　</p>  
+    </td>  
+  </tr>  
+  <tr>  
+    <td width="100%" height="30">  
+      　</td>  
+  </tr>  
+</table>

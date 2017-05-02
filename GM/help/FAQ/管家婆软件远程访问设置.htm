@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>管家婆软件远程访问设置</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" height="34">
+  <tr>
+    <td width="100%" bgcolor="#CCCCFF" height="28">
+      <p align="center"><font color="#808000" size="4"><b>管家婆软件远程访问设置</b></font></td>
+  </tr>
+</table>
+<div style="PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 12px">
+  <p style="line-height: 150%"><font size="2"><font color="blue">当前软硬件、网络环境要求：</font><br>
+  A.服务器端必须是自己直接上网（建议：使用ADSL虚拟拨号上网），而不是通过局域网共享上网<br>
+  <br>
+  B.服务器端必须有一个合法的公网IP(即除192.168.*.* ，10.*.*.*  
+  ，172.16.*.* 到 172.31.*.*以外的地址),是否固定无所谓<br> 
+  <br>
+  C.能够进行远程访问的加密狗，以及支持远程访问的管家婆程序（可以和成都总公司客服部联系）<br>
+  <br>
+  <font color="blue">服务器端设置：</font><br>
+  A.连接上网<br>
+  <br>
+  B.打开windows桌面右下角的“管家婆财贸双全服务器”图标，在“设置－设置远程连接参数”中，选中“internet远程服务器注册”，在“公司服务器别名”处填入<font color="red">大于12位的数字、字母或两者的组合</font>，不能使用中文。然后“注册”，如果成功会有提示。<br>
+  <br>
+  <font color="blue">客户端设置：</font><br>
+  A.连接上网<br>
+  <br>
+  B.打开客户端，在“服务器名称”处填入“61.139.77.221”，选中“远程服务器别名”，然后在后面的输入框中输入服务器端注册申请的别名即可。<br>
+  <br>
+  <font color="blue">当出现“服务器连接失败”时，请按以下步骤检查：</font><br>
+  <br>
+  A.确保服务器端和客户端已经连接上网<br>
+  <br>
+  B.确保服务器端和客户端程序版本一致<br>
+  <br>
+  C.在服务器端的“windows开始菜单－运行”中分别输入如下命令1.“cmd”进入命令提示符状态，2.“ipconfig”，查询到用ADSL拨号获得的ip地址（ip  
+  address)，然后通知客户端，由客户端在“windows开始菜单－运行”中，录入“ping  
+  *.*.*.*(服务器端获得的公网ip地址）”，如果有返回连接时间的数据，则证明网络连接正常，则按“D”步执行；如果返回信息为“request  
+  times out”，则表明服务器端连接不正常，或是没有公网IP地址，请与贵公司网络管理员联系。<br> 
+  <br>
+  D.如果能够ping通服务器ip地址，却不能连接，则可能是服务器端安装有防火墙程序，请关闭防火墙或是将防火墙中的211端口打开</font>
+</div>
+
+</body>
+
+</html>

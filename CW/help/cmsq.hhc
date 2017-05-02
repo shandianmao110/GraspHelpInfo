@@ -1,0 +1,1013 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+   <OBJECT type="text/site properties">
+     <param name="Window Styles" value="0x800025">
+     <param name="comment" value="title:在线帮助">
+     <param name="comment" value="base:index.htm">
+   </OBJECT>
+   <UL>
+      <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="开始使用">
+            <param name="Local" value="welcome.htm">
+            <param name="ImageNumber" value="1">
+          </OBJECT>
+      <UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="启动系统">
+               <param name="Local" value="启动及登录/启动系统.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="登录账套">
+               <param name="Local" value="启动及登录/如何登录账套.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="期初建账">
+               <param name="Local" value="welcome.htm">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="第一步　基础资料录入">
+                  <param name="Local" value="期初/基本信息录入.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="第二步　固定资产期初录入">
+                  <param name="Local" value="期初/固定资产期初.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="第三步　期初账务数据录入">
+                  <param name="Local" value="账务初始化/期初账务数据.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="第四步　期初结账">
+                  <param name="Local" value="期初/215期初结账与反结账.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+      </UL>
+      <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="功能模块操作指南">
+            <param name="Local" value="welcome.htm">
+            <param name="ImageNumber" value="1">
+          </OBJECT>
+      <UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="文件">
+               <param name="Local" value="welcome.htm">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="更换操作员">
+                  <param name="Local" value="文件/更换操作员.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="修改口令">
+                  <param name="Local" value="文件/修改口令.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="账套选项">
+                  <param name="Local" value="文件/账套选项.htm">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="打印控制">
+                     <param name="Local" value="文件/账套打印控制.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="财务">
+                     <param name="Local" value="文件/账套财务.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="其他">
+                     <param name="Local" value="文件/账套其他.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="操作员授权">
+                  <param name="Local" value="文件/操作员授权.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="基本信息授权">
+                  <param name="Local" value="文件/基本信息授权.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="数据处理">
+                  <param name="Local" value="welcome.htm">
+                  <param name="ImageNumber" value="1">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="基本信息导入">
+                     <param name="Local" value="文件/基本信息导入.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="凭证导入、导出">
+                     <param name="Local" value="文件/凭证导入导出.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="账套维护">
+                  <param name="Local" value="welcome.htm">
+                  <param name="ImageNumber" value="1">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="备份">
+                     <param name="Local" value="文件/数据备份与恢复.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="系统重建">
+                     <param name="Local" value="文件/系统重建.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="账套修复和升级补丁">
+                     <param name="Local" value="文件/账套修复和升级补丁.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="年结存">
+                  <param name="Local" value="文件/年结存.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="安全钥匙">
+                  <param name="Local" value="文件/安全钥匙.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="系统日志">
+                  <param name="Local" value="文件/系统日志.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="期初">
+               <param name="Local" value="welcome.htm">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="期初账务数据">
+                  <param name="Local" value="期初/214期初账务数据.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="期初结账/反结账">
+                  <param name="Local" value="期初/215期初结账与反结账.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="基础资料">
+               <param name="Local" value="welcome.htm">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="常用操作">
+                  <param name="Local" value="系统初始化/常用操作.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="规则设置">
+                  <param name="Local" value="系统初始化/基础资料规则设置.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="客户">
+                  <param name="Local" value="系统初始化/客户.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="供应商">
+                  <param name="Local" value="系统初始化/供应商.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="地区">
+                  <param name="Local" value="系统初始化/地区.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="部门">
+                  <param name="Local" value="系统初始化/部门.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="职员">
+                  <param name="Local" value="系统初始化/职员.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="财务资料">
+                  <param name="ImageNumber" value="1">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="会计科目">
+                     <param name="Local" value="账务初始化/会计科目.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="会计期间">
+                     <param name="Local" value="系统初始化/会计期间设置.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="结算方式">
+                     <param name="Local" value="账务初始化/结算方式.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币">
+                     <param name="Local" value="账务初始化/外币设置.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="其他资料">
+                  <param name="Local" value="welcome.htm">
+                  <param name="ImageNumber" value="1">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="工 序">
+                     <param name="Local" value="系统初始化/工序.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="工作组">
+                     <param name="Local" value="系统初始化/工作组.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="项目">
+                     <param name="Local" value="账务初始化/项目.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="常用摘要">
+                     <param name="Local" value="账务初始化/常用摘要.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="总账">
+               <param name="Local" value="welcome.htm">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="常用凭证">
+                  <param name="Local" value="账务处理/凭证模板.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="凭证录入">
+                  <param name="Local" value="账务处理/凭证录入.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="出纳签字">
+                  <param name="Local" value="账务处理/出纳签字.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="审核">
+                  <param name="Local" value="账务处理/凭证审核.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="记账">
+                  <param name="Local" value="账务处理/凭证记账.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="凭证引入">
+                  <param name="Local" value="账务处理/凭证引入.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="凭证查找">
+                  <param name="Local" value="账务处理/凭证查找.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="汇兑损益">
+                  <param name="Local" value="账务处理/汇兑损益.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="结转损益">
+                  <param name="Local" value="账务处理/结转损益.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="期末结账">
+                  <param name="Local" value="账务处理/期末结账.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="辅助工具">
+                  <param name="Local" value="账务处理/辅助工具.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="账表打印">
+                  <param name="Local" value="账务处理/账表打印.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="账务报表">
+               <param name="Local" value="welcome.htm">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="账簿查询">
+                  <param name="Local" value="账务报表/账簿查询.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="我的账簿">
+                  <param name="Local" value="账务报表/我的账簿.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="辅助核算概述">
+                  <param name="Local" value="账务报表/辅助核算概述.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="辅助账查询">
+                  <param name="Local" value="账务报表/辅助账查询.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="部门损益表">
+                  <param name="Local" value="账务报表/部门损益表.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="项目损益表">
+                  <param name="Local" value="账务报表/项目损益表.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="年度损益统计">
+                  <param name="Local" value="账务报表/年度损益统计.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="固定资产">
+               <param name="Local" value="welcome.htm">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="固定资产管理">
+                  <param name="Local" value="固定资产/固定资产管理.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="基础数据">
+                  <param name="Local" value="固定资产/基础数据.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="业务处理">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="固定资产增加">
+                     <param name="Local" value="固定资产/业务处理/固定资产增加.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="固定资产减少">
+                     <param name="Local" value="固定资产/业务处理/固定资产减少.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="固定资产变更">
+                     <param name="Local" value="固定资产/业务处理/固定资产变更.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="固定资产减值准备">
+                     <param name="Local" value="固定资产/业务处理/固定资产减值准备.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="固定资产工作量录入">
+                     <param name="Local" value="固定资产/业务处理/固定资产工作量录入.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="固定资产计提折旧">
+                     <param name="Local" value="固定资产/业务处理/固定资产计提折旧.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="固定资产查询">
+                  <param name="Local" value="固定资产/固定资产查询.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="工资管理">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工资管理">
+                  <param name="Local" value="工资管理/工资管理.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工资设置">
+                  <param name="Local" value="工资管理/工资设置.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工资数据">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="工资数据">
+                     <param name="Local" value="工资管理/工资录入/工资录入.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="计件工资模板">
+                     <param name="Local" value="工资管理/工资录入/计件工资模板.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工资发放">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="工资分配设置">
+                     <param name="Local" value="工资管理/工资发放/工资分配设置.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="工资费用分配">
+                     <param name="Local" value="工资管理/工资发放/工资费用分配.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="支付工资">
+                     <param name="Local" value="工资管理/工资发放/支付工资.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工资查询">
+                  <param name="Local" value="工资管理/工资查询.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工序工资统计表">
+                  <param name="Local" value="工资管理/工种工序统计表.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="工资发放表">
+                  <param name="Local" value="工资管理/工资发放/工资发放表.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="职工工资报表">
+                  <param name="Local" value="工资管理/职员工资报表.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="计件工资查询">
+                  <param name="Local" value="工资管理/计件工资查询.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="打印工资条">
+                  <param name="Local" value="工资管理/打印工资条.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="出纳管理">
+               <param name="ImageNumber" value="1">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="出纳管理">
+                  <param name="Local" value="出纳管理/出纳管理概述.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="出纳期初">
+                  <param name="Local" value="出纳管理/出纳期初.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="日常处理">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="现金流水账">
+                     <param name="Local" value="出纳管理/日常业务/现金流水账.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="银行流水账">
+                     <param name="Local" value="出纳管理/日常业务/银行流水账.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="出纳轧账">
+                     <param name="Local" value="出纳管理/日常业务/出纳轧账.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="支票管理">
+                     <param name="Local" value="出纳管理/日常业务/支票管理.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="银行票据管理">
+                     <param name="Local" value="出纳管理/日常业务/银行票据管理.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="银行对账">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="银行对账单">
+                     <param name="Local" value="出纳管理/银行对账/银行对账单.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="余额调节表">
+                     <param name="Local" value="出纳管理/银行对账/余额调节表.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="会计对账">
+                     <param name="Local" value="出纳管理/银行对账/会计对账.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="银行对账">
+                     <param name="Local" value="出纳管理/银行对账/银行对账.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+         </UL>
+      </UL>
+      <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="GraspReport System报表系统">
+            <param name="Local" value="welcome.htm">
+            <param name="ImageNumber" value="1">
+          </OBJECT>
+      <UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="功能概述">
+               <param name="Local" value="报表帮助/功能概述.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="资产负债表">
+               <param name="Local" value="报表帮助/资产负债表.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="利润表">
+               <param name="Local" value="报表帮助/利润表.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="现金流量表">
+               <param name="Local" value="报表帮助/现金流量表.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="入门">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="开始使用">
+                  <param name="Local" value="报表帮助/入门/开始使用.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="快速使用">
+                  <param name="Local" value="报表帮助/入门/快速使用.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="GraspReport使用极限">
+                  <param name="Local" value="报表帮助/入门/GraspReport极限.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="术语">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="报表文件及表页">
+                     <param name="Local" value="报表帮助/入门/术语/报表文件及表页.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="单元格及单元格属性">
+                     <param name="Local" value="报表帮助/入门/术语/单元格及单元格属性.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="单元格文本格式">
+                     <param name="Local" value="报表帮助/入门/术语/单元格文本格式.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="关键字">
+                     <param name="Local" value="报表帮助/入门/术语/关键字.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="区域与组合单元格">
+                     <param name="Local" value="报表帮助/入门/术语/区域与组合单元格.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数据格式状态">
+                     <param name="Local" value="报表帮助/入门/术语/数据格式状态.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="文件">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="新建文件">
+                  <param name="Local" value="报表帮助/文件/新建文件.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="保存和关闭文件">
+                  <param name="Local" value="报表帮助/文件/保存和关闭文件.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="文件口令">
+                  <param name="Local" value="报表帮助/文件/设置文件口令.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="打印">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="打印设置">
+                  <param name="Local" value="报表帮助/打印/打印.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="打印预览">
+                  <param name="Local" value="报表帮助/打印/打印预览.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="打印参数">
+                  <param name="Local" value="报表帮助/打印/设置打印参数.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="页面大小">
+                  <param name="Local" value="报表帮助/打印/设置页面大小.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="格式">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="编辑单元格">
+                  <param name="Local" value="报表帮助/格式/编辑单元格.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="表页">
+                  <param name="Local" value="报表帮助/格式/表页操作.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="单元格格式">
+                  <param name="Local" value="报表帮助/格式/单元格格式.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="格式保护">
+                  <param name="Local" value="报表帮助/格式/格式保护.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="合并拆分">
+                  <param name="Local" value="报表帮助/格式/合并拆分单元格.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="行列操作">
+                  <param name="Local" value="报表帮助/格式/行列操作.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="公式">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="函数说明">
+                  <param name="Local" value="报表帮助/公式/函数说明.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="函数向导">
+                  <param name="Local" value="报表帮助/公式/函数向导.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="财务函数">
+                  <param name="Local" value="报表帮助/公式/函数/财务函数.htm">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="期初">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/期初.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="期末">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/期末.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="发生">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/发生.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="累计发生">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/累计发生.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="净额">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/净额.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="累计净额">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/累计净额.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="汇率">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/汇率.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数量期初">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/数量期初.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数量期末">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/数量期末.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数量发生">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/数量发生.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数量累计发生">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/数量累计发生.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数量净额">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/数量净额.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数量累计净额">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/数量累计净额.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币期初">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/外币期初.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币期末">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/外币期末.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币发生">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/外币发生.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币累计发生">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/外币累计发生.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币净额">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/外币净额.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="外币累计净额">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/外币累计净额.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="现金流量">
+                     <param name="Local" value="报表帮助/公式/函数/财务函数/现金流量.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="其它函数">
+                </OBJECT>
+            <UL>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="数学函数">
+                     <param name="Local" value="报表帮助/公式/函数/数学函数.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="统计函数">
+                     <param name="Local" value="报表帮助/公式/函数/统计函数.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="条件函数">
+                     <param name="Local" value="报表帮助/公式/函数/条件函数.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="表操作函数">
+                     <param name="Local" value="报表帮助/公式/函数/表操作函数.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="日期函数">
+                     <param name="Local" value="报表帮助/公式/函数/日期时间函数.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+               <LI><OBJECT type="text/sitemap">
+                     <param name="Name" value="文件取数函数">
+                     <param name="Local" value="报表帮助/公式/函数/文件取数函数.htm">
+                     <param name="ImageNumber" value="11">
+                   </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="定义一个公式">
+                  <param name="Local" value="报表帮助/公式/定义一个公式.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="公式录入格式">
+                  <param name="Local" value="报表帮助/公式/公式录入格式.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="检查公式的语法">
+                  <param name="Local" value="报表帮助/公式/检查公式的语法.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="计算表页数据">
+                  <param name="Local" value="报表帮助/公式/计算表页中的公式.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="计算所有表页">
+                  <param name="Local" value="报表帮助/公式/计算所有表页.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="模板">
+             </OBJECT>
+         <UL>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="模板基本操作">
+                  <param name="Local" value="报表帮助/模板/模板基本操作.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="行业模板">
+                  <param name="Local" value="报表帮助/模板/行业模板.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="选择模板生成报表">
+                  <param name="Local" value="报表帮助/模板/选择模板生成报表.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="GraspReport System自带模板">
+                  <param name="Local" value="报表帮助/模板/自带模板.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+         </UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="关键字">
+               <param name="Local" value="报表帮助/关键字/关键字.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="工具">
+               <param name="Local" value="报表帮助/工具/工具.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="窗口">
+               <param name="Local" value="报表帮助/窗口/窗口.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="分页">
+               <param name="Local" value="报表帮助/分页/分页预览.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+      </UL>
+      <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="常见问题">
+            <param name="Local" value="welcome.htm">
+            <param name="ImageNumber" value="3">
+          </OBJECT>
+      <UL>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="SQL2005安装">
+               <param name="Local" value="系统安装/SQL2005安装过程.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="连接服务器失败的处理方法">
+               <param name="Local" value="FAQ/连接服务器失败的处理方法.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="远程访问设置">
+               <param name="Local" value="FAQ/管家婆软件远程访问设置.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+         <LI><OBJECT type="text/sitemap">
+               <param name="Name" value="如何进行补丁升级">
+               <param name="Local" value="FAQ/如何进行补丁升级.htm">
+               <param name="ImageNumber" value="11">
+             </OBJECT>
+      </UL>
+   </UL>
+</BODY>
+</HTML>

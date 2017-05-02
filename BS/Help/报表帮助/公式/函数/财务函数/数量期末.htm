@@ -1,0 +1,38 @@
+<title>数量期末</title>
+<table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <p align="left" style="line-height: 150%; margin-top: 0; margin-bottom: 0"><b><font size="2">数量期末</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+    用于取得各个会计期间的期末数量。<br>
+    <br>
+      <b>
+    格式：</b><br>
+    sQM(〈科目编码〉,[〈会计期间〉],[〈方向〉], [〈编码部门〉],[〈编码员工〉], [〈编码往来单位〉] , [〈编码项目〉] ,  
+    [〈编码5预留〉],[〈是否包含未记账〉] ) <br> 
+    <br>
+      <b>
+    参数说明：</b><br>
+    〈科目编码〉为指定科目的编码。格式为单引号括起来如: ’1001’<br> 
+    〈会计期间〉为指定的会计期间。格式有当前月（’’）, 当前上月（’s’）,关键字月(‘m’), 关键字上月(‘m-1’),1到12数字表示的月份<br> 
+    〈方向〉为指定的借贷方向 格式有默认（’’）,借(‘D’),贷(‘L’) 分别统计借贷方数量的合计。<br> 
+    <br>
+    〈编码部门〉,〈编码员工〉,〈编码往来单位〉,〈编码项目〉为辅助核算项目，输入辅助核算项目后，只有辅助核算发生的凭证才会进入统计范围。<br>
+    〈编码5预留〉未使用。<br>
+    〈是否包含未记账〉用于判断是否统计的凭证需要记账。0表示不包括未记账，1表示包括。<br>
+    <br>
+    方向默认（’’）,借(‘D’),贷(‘L’)的取法与期初相同。<br>
+    <br>
+    期末的具体用法与期初一样，可以参考期初的例子。<br>
+      　</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">　</font></p>
+    </td>
+  </tr>
+</table>

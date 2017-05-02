@@ -1,0 +1,1249 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GraspReport System自带模板">
+		<param name="Local" value="报表帮助/模板/自带模板.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MRP运算">
+		<param name="Local" value="生产管理/MRP运算.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SQL2005安装">
+		<param name="Local" value="系统安装/SQL2005安装过程.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="安全钥匙">
+		<param name="Local" value="文件/安全钥匙.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="按单结算查询">
+		<param name="Local" value="业务查询/按单结算查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="报损报溢单">
+		<param name="Local" value="单据处理/报损报溢单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="编辑单元格">
+		<param name="Local" value="报表帮助/格式/编辑单元格.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="表操作函数">
+		<param name="Local" value="报表帮助/公式/函数/表操作函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="表页操作">
+		<param name="Local" value="报表帮助/格式/表页操作.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="部门">
+		<param name="Local" value="系统初始化/部门.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="材料成本差异表">
+		<param name="Local" value="生产管理/材料成本差异表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="财务函数">
+		<param name="Local" value="报表帮助/公式/函数/财务函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="财务配置">
+		<param name="Local" value="文件/账套选项－财务配置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="财务数据导出">
+		<param name="Local" value="文件/财务数据导出.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="仓库">
+		<param name="Local" value="系统初始化/仓库.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="仓库销售分布表">
+		<param name="Local" value="业务查询/仓库销售分布表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="操作员授权">
+		<param name="Local" value="文件/操作员授权.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="草稿查询">
+		<param name="Local" value="业务查询/草稿查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="常用操作">
+		<param name="Local" value="系统初始化/常用操作.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="常用摘要">
+		<param name="Local" value="账务初始化/常用摘要.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="畅销滞销存货">
+		<param name="Local" value="业务查询/畅销滞销商品.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="超期应收款">
+		<param name="Local" value="业务查询/超期应收款.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="车间资料">
+		<param name="Local" value="生产管理/车间.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="出纳签字">
+		<param name="Local" value="账务处理/出纳签字.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="窗口">
+		<param name="Local" value="报表帮助/窗口/窗口.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="存货">
+		<param name="Local" value="系统初始化/商品.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="存货核算方法">
+		<param name="Local" value="系统初始化/存货核算方法.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="存货价格分析">
+		<param name="Local" value="业务查询/商品价格分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="存货明细中心">
+		<param name="Local" value="业务查询/商品明细中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="存货售价设置">
+		<param name="Local" value="系统初始化/存货售价设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="存货数据中心">
+		<param name="Local" value="业务查询/商品数据中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="打印">
+		<param name="Local" value="报表帮助/打印/打印.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="打印预览">
+		<param name="Local" value="报表帮助/打印/打印预览.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单据编号格式设置">
+		<param name="Local" value="文件/单据编号格式设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单据查找">
+		<param name="Local" value="业务查询/单据查找.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单据格式配置">
+		<param name="Local" value="文件/单据格式配置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单据基本操作">
+		<param name="Local" value="单据处理/单据基本操作.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单据开票情况查询">
+		<param name="Local" value="业务查询/单据开票情况查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单据统计">
+		<param name="Local" value="业务查询/单据统计.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单品分析">
+		<param name="Local" value="业务查询/单品分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单元格格式">
+		<param name="Local" value="报表帮助/格式/单元格格式.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="地区">
+		<param name="Local" value="系统初始化/地区.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="调拨单">
+		<param name="Local" value="单据处理/调拨单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="调价单">
+		<param name="Local" value="单据处理/调价单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="定义一个公式">
+		<param name="Local" value="报表帮助/公式/定义一个公式.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="发票管理">
+		<param name="Local" value="业务查询/开票管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="发生">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/发生.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="费用分配单">
+		<param name="Local" value="生产管理/费用分配单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="分页预览">
+		<param name="Local" value="报表帮助/分页/分页预览.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="辅助工具">
+		<param name="Local" value="账务处理/辅助工具.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="辅助核算">
+		<param name="Local" value="账务报表/辅助核算概述.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="辅助账查询">
+		<param name="Local" value="账务报表/辅助账查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="付款单">
+		<param name="Local" value="单据处理/付款单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="负库存的产生及解决办法">
+		<param name="Local" value="FAQ/负库存的产生及解决办法.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="格式保护">
+		<param name="Local" value="报表帮助/格式/格式保护.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="更换操作员">
+		<param name="Local" value="文件/更换操作员.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工 资 查 询">
+		<param name="Local" value="工资管理/工资查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工具">
+		<param name="Local" value="报表帮助/工具/工具.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工种工序统计表">
+		<param name="Local" value="工资管理/工种工序统计表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工资发放表">
+		<param name="Local" value="工资管理/工资发放/工资发放表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工资费用分配">
+		<param name="Local" value="工资管理/工资发放/工资费用分配.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工资分配设置">
+		<param name="Local" value="工资管理/工资发放/工资分配设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工资管理">
+		<param name="Local" value="工资管理/工资管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工资录入">
+		<param name="Local" value="工资管理/工资录入/工资录入.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工资设置">
+		<param name="Local" value="工资管理/工资设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="公式录入格式">
+		<param name="Local" value="报表帮助/公式/公式录入格式.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="供应商">
+		<param name="Local" value="系统初始化/供应商.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="供应商明细中心">
+		<param name="Local" value="业务查询/供应商明细中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="供应商受托代销汇总表">
+		<param name="Local" value="业务查询/供应商受托代销汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="供应商数据中心">
+		<param name="Local" value="业务查询/供应商数据中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="供应商往来查询">
+		<param name="Local" value="业务查询/应付账款查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="共享上边框">
+		<param name="Local" value="_borders/top.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="共享左边框">
+		<param name="Local" value="_borders/left.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="估价入库单">
+		<param name="Local" value="单据处理/估价入库单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="估价入库汇总表">
+		<param name="Local" value="业务查询/估价入库汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="估价入库余额表">
+		<param name="Local" value="业务查询/估价入库余额表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产变更">
+		<param name="Local" value="固定资产/业务处理/固定资产变更.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产查询">
+		<param name="Local" value="固定资产/固定资产查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产工作量录入">
+		<param name="Local" value="固定资产/业务处理/固定资产工作量录入.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产管理">
+		<param name="Local" value="固定资产/固定资产管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产基础数据">
+		<param name="Local" value="固定资产/基础数据.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产减少">
+		<param name="Local" value="固定资产/业务处理/固定资产减少.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产减值准备">
+		<param name="Local" value="固定资产/业务处理/固定资产减值准备.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产期初">
+		<param name="Local" value="账务初始化/固定资产期初.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="固定资产增加">
+		<param name="Local" value="固定资产/业务处理/固定资产增加.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="关键字">
+		<param name="Local" value="报表帮助/入门/术语/关键字.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="关键字">
+		<param name="Local" value="报表帮助/关键字/关键字.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="管家婆软件远程访问设置">
+		<param name="Local" value="FAQ/管家婆软件远程访问设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="规则设置">
+		<param name="Local" value="系统初始化/基础资料规则设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="国标财务数据接口">
+		<param name="Local" value="文件/国标财务数据接口.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="函数说明">
+		<param name="Local" value="报表帮助/公式/函数说明.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="函数向导">
+		<param name="Local" value="报表帮助/公式/函数向导.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="航天金穗数据导出">
+		<param name="Local" value="文件/航天金穗数据导出.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="合并拆分单元格">
+		<param name="Local" value="报表帮助/格式/合并拆分单元格.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="欢迎您使用工贸版">
+		<param name="Local" value="welcome.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="汇兑损益">
+		<param name="Local" value="账务处理/汇兑损益.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="汇率">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/汇率.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="会计对账">
+		<param name="Local" value="出纳管理/银行对账/会计对账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="会计科目">
+		<param name="Local" value="账务初始化/会计科目.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="会计期间设置">
+		<param name="Local" value="系统初始化/会计期间设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="基础资料录入">
+		<param name="Local" value="基本信息录入.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="计件工资查询">
+		<param name="Local" value="工资管理/计件工资查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="计件工资模板">
+		<param name="Local" value="工资管理/工资录入/计件工资模板.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="计算表页中的公式">
+		<param name="Local" value="报表帮助/公式/计算表页中的公式.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="计算所有表页">
+		<param name="Local" value="报表帮助/公式/计算所有表页.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="加工单位往来查询">
+		<param name="Local" value="生产管理/加工单位往来查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="价格跟踪">
+		<param name="Local" value="业务查询/价格跟踪.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="检查公式的语法">
+		<param name="Local" value="报表帮助/公式/检查公式的语法.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="结算方式">
+		<param name="Local" value="账务初始化/结算方式.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="结转成本">
+		<param name="Local" value="单据处理/结转成本.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="结转损益">
+		<param name="Local" value="账务处理/结转损益.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货单">
+		<param name="Local" value="单据处理/进货单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货订单">
+		<param name="Local" value="单据处理/进货订单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货订单查询">
+		<param name="Local" value="业务查询/进货订单查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货订单汇总表">
+		<param name="Local" value="业务查询/进货订单汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货订单明细表">
+		<param name="Local" value="业务查询/进货订单明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货分析">
+		<param name="Local" value="业务查询/进货分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货汇总表">
+		<param name="Local" value="业务查询/进货汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货建议表">
+		<param name="Local" value="业务查询/进货建议表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货开票汇总表">
+		<param name="Local" value="业务查询/进货开票汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货明细表">
+		<param name="Local" value="业务查询/进货明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货趋势表">
+		<param name="Local" value="业务查询/进货趋势表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货统计">
+		<param name="Local" value="业务查询/进货统计.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进货退货">
+		<param name="Local" value="单据处理/进货退货单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进价分析">
+		<param name="Local" value="业务查询/进价分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进销存配置">
+		<param name="Local" value="文件/进销存配置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进销存期末反结账">
+		<param name="Local" value="单据处理/进销存期末反结账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="进销存期末结账">
+		<param name="Local" value="单据处理/进销存期末结账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="净额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/净额.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="开票查询">
+		<param name="Local" value="业务查询/开票查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="客户">
+		<param name="Local" value="系统初始化/客户.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="客户价格分析">
+		<param name="Local" value="业务查询/客户价格分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="客户明细中心">
+		<param name="Local" value="业务查询/客户明细中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="客户数据中心">
+		<param name="Local" value="业务查询/客户数据中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="客户往来查询">
+		<param name="Local" value="业务查询/应收账款查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="客户委托代销汇总表">
+		<param name="Local" value="业务查询/客户委托代销汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存报警">
+		<param name="Local" value="业务查询/库存报警.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存管理">
+		<param name="Local" value="业务查询/存货管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存汇总表">
+		<param name="Local" value="业务查询/库存汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存明细表">
+		<param name="Local" value="业务查询/库存明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存盘点">
+		<param name="Local" value="业务查询/库存盘点.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存情况分布表">
+		<param name="Local" value="业务查询/库存分布表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存数量汇总表">
+		<param name="Local" value="业务查询/库存数量汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存数量明细表">
+		<param name="Local" value="业务查询/库存数量明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="库存余额表">
+		<param name="Local" value="业务查询/库存余额表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="快速使用报表系统">
+		<param name="Local" value="报表帮助/入门/快速使用.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="累计发生">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/累计发生.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="累计净额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/累计净额.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="连接服务器失败的处理方法?">
+		<param name="Local" value="FAQ/连接服务器失败的处理方法.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="领料单">
+		<param name="Local" value="生产管理/领料单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="流水账">
+		<param name="Local" value="业务查询/流水账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="录单配置">
+		<param name="Local" value="文件/录单配置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="模板订单统计">
+		<param name="Local" value="业务查询/模板订单统计.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="模板基本操作">
+		<param name="Local" value="报表帮助/模板/模板基本操作.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="年结存">
+		<param name="Local" value="文件/年结存.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="票据管理">
+		<param name="Local" value="出纳管理/日常业务/银行票据管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="品牌">
+		<param name="Local" value="系统初始化/品牌.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="凭证查找">
+		<param name="Local" value="账务处理/凭证查找.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="凭证导入导出">
+		<param name="Local" value="文件/凭证导入导出.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="凭证记账">
+		<param name="Local" value="账务处理/凭证记账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="凭证录入">
+		<param name="Local" value="账务处理/凭证录入.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="凭证引入">
+		<param name="Local" value="账务处理/凭证引入.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/期初.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初建账－期初存货">
+		<param name="Local" value="系统初始化/期初建账－库存商品.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初建账－委托代销">
+		<param name="Local" value="系统初始化/期初建账－委托代销.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初任务单">
+		<param name="Local" value="生产管理/期初任务单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初生产领用">
+		<param name="Local" value="生产管理/期初生产领用.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初委外加工单">
+		<param name="Local" value="生产管理/期初委外加工单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初委外领用">
+		<param name="Local" value="生产管理/期初委外领用.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初应收应付账款">
+		<param name="Local" value="系统初始化/期初应收应付账款.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期初账务数据">
+		<param name="Local" value="账务初始化/期初账务数据.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期末">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/期末.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="期末结账">
+		<param name="Local" value="账务处理/期末结账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="其他出库报表">
+		<param name="Local" value="业务查询/其他出库报表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="其他出入库单">
+		<param name="Local" value="单据处理/其他出入库单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="其他付款、收款业务">
+		<param name="Local" value="单据处理/其他付款、收款业务.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="其他入库报表">
+		<param name="Local" value="业务查询/其他入库报表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="启动系统">
+		<param name="Local" value="系统安装/启动系统.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="启用账套">
+		<param name="Local" value="系统初始化/启用账套.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="权限设置">
+		<param name="Local" value="文件/权限组设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="日期时间函数">
+		<param name="Local" value="报表帮助/公式/函数/日期时间函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="如何登录账套">
+		<param name="Local" value="系统安装/如何登录账套.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="如何进行补丁升级">
+		<param name="Local" value="FAQ/如何进行补丁升级.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="如何在SQL SERVER中手工升级账套">
+		<param name="Local" value="FAQ/如何在SQL%20SERVER中手工升级账套.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="商品分析">
+		<param name="Local" value="业务查询/商品分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="商品销售分析">
+		<param name="Local" value="业务查询/商品销售分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设置打印参数">
+		<param name="Local" value="报表帮助/打印/设置打印参数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设置商品价格">
+		<param name="Local" value="系统初始化/设置商品价格.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设置文件口令">
+		<param name="Local" value="报表帮助/文件/设置文件口令.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设置页面大小">
+		<param name="Local" value="报表帮助/打印/设置页面大小.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="审核">
+		<param name="Local" value="账务处理/凭证审核.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产报损报溢单">
+		<param name="Local" value="生产管理/生产报损报溢单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产计划单">
+		<param name="Local" value="生产管理/生产计划单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产计划汇总表">
+		<param name="Local" value="生产管理/生产计划汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产计划明细表">
+		<param name="Local" value="生产管理/生产计划明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产库存盘点表">
+		<param name="Local" value="生产管理/生产库存盘点表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产领料汇总表">
+		<param name="Local" value="生产管理/生产领料汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产领料明细表">
+		<param name="Local" value="生产管理/生产领料明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产领料数量汇总表">
+		<param name="Local" value="生产管理/生产领料数量汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产领料数量明细表">
+		<param name="Local" value="生产管理/生产领料数量明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产模板管理">
+		<param name="Local" value="业务查询/生产模板管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产任务单">
+		<param name="Local" value="生产管理/生产任务单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产任务明细表">
+		<param name="Local" value="生产管理/生产任务明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产组装单">
+		<param name="Local" value="单据处理/生产组装单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="收款单">
+		<param name="Local" value="单据处理/收款单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数据备份与恢复">
+		<param name="Local" value="文件/数据备份与恢复.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数据格式状态">
+		<param name="Local" value="报表帮助/入门/术语/数据格式状态.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数据中心操作概述">
+		<param name="Local" value="业务查询/数据中心操作概述.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数量发生">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/数量发生.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数量净额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/数量净额.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数量累计发生">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/数量累计发生.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数量累计净额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/数量累计净额.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数量期初">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/数量期初.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数量期末">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/数量期末.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="数学函数">
+		<param name="Local" value="报表帮助/公式/函数/数学函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="条件取数/赋值函数">
+		<param name="Local" value="报表帮助/公式/函数/条件函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="统计函数">
+		<param name="Local" value="报表帮助/公式/函数/统计函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="退料单">
+		<param name="Local" value="生产管理/退料单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币发生">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/外币发生.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币净额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/外币净额.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币累计发生">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/外币累计发生.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币累计净额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/外币累计净额.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币期初">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/外币期初.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币期末">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/外币期末.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="外币设置">
+		<param name="Local" value="账务初始化/外币设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="完工成本汇总表">
+		<param name="Local" value="生产管理/完工成本汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="完工成本明细表">
+		<param name="Local" value="生产管理/完工成本明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="完工数量汇总表">
+		<param name="Local" value="生产管理/完工数量汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="完工数量明细表">
+		<param name="Local" value="生产管理/完工数量明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="完工验收单">
+		<param name="Local" value="生产管理/完工验收单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="往来单位分析">
+		<param name="Local" value="业务查询/往来单位分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委托代销成本汇总表">
+		<param name="Local" value="业务查询/委托代销成本汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委托代销">
+		<param name="Local" value="单据处理/委托代销.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外成本汇总表">
+		<param name="Local" value="生产管理/委外成本汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外成本明细表">
+		<param name="Local" value="生产管理/委外成本明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外费用分配单">
+		<param name="Local" value="生产管理/委外费用分配单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外费用汇总表">
+		<param name="Local" value="生产管理/委外费用汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外费用结算单">
+		<param name="Local" value="生产管理/委外费用结算单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外费用明细表">
+		<param name="Local" value="生产管理/委外费用明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外加工单">
+		<param name="Local" value="生产管理/委外加工单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外加工费用单">
+		<param name="Local" value="生产管理/委外加工费用单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外加工明细表">
+		<param name="Local" value="生产管理/委外加工明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外领料单">
+		<param name="Local" value="生产管理/委外领料单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外领料汇总表">
+		<param name="Local" value="生产管理/委外领料汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外领料明细表">
+		<param name="Local" value="生产管理/委外领料明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外领料数量汇总表">
+		<param name="Local" value="生产管理/委外领料数量汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外领料数量明细表">
+		<param name="Local" value="生产管理/委外领料数量明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外生产计划单">
+		<param name="Local" value="生产管理/委外生产计划单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外生产计划汇总表">
+		<param name="Local" value="生产管理/委外生产计划汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外生产计划明细表">
+		<param name="Local" value="生产管理/委外生产计划明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外退料单">
+		<param name="Local" value="生产管理/委外退料单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外完工数量汇总表">
+		<param name="Local" value="生产管理/委外完工数量汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外完工数量明细表">
+		<param name="Local" value="生产管理/委外完工数量明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="委外完工验收单">
+		<param name="Local" value="生产管理/委外完工验收单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="文件取数函数">
+		<param name="Local" value="报表帮助/公式/函数/文件取数函数.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="我的账簿">
+		<param name="Local" value="账务处理/我的账簿.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="物料清单">
+		<param name="Local" value="生产管理/物料清单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="系统日志">
+		<param name="Local" value="文件/系统日志.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="系统重建">
+		<param name="Local" value="文件/系统重建.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="现金流量项目金额">
+		<param name="Local" value="报表帮助/公式/函数/财务函数/现金流量.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="现金流水账">
+		<param name="Local" value="出纳管理/日常业务/现金流水账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="项目">
+		<param name="Local" value="账务初始化/项目.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售按单毛利表">
+		<param name="Local" value="业务查询/销售按单毛利表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售单">
+		<param name="Local" value="单据处理/销售单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售订单">
+		<param name="Local" value="单据处理/销售订单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售订单查询">
+		<param name="Local" value="业务查询/销售订单查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售订单汇总表">
+		<param name="Local" value="业务查询/销售订单汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售订单明细表">
+		<param name="Local" value="业务查询/销售订单明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售订单生产汇总表">
+		<param name="Local" value="生产管理/销售订单生产汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售汇总表">
+		<param name="Local" value="业务查询/销售汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售开票汇总表">
+		<param name="Local" value="业务查询/销售开票汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售毛利汇总表">
+		<param name="Local" value="业务查询/销售毛利汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售明细表">
+		<param name="Local" value="业务查询/销售明细表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售趋势表">
+		<param name="Local" value="业务查询/销售趋势表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售退货">
+		<param name="Local" value="单据处理/销售退货单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售业务的特殊处理">
+		<param name="Local" value="单据处理/销售业务的特殊处理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="销售折扣统计">
+		<param name="Local" value="业务查询/商品折扣统计.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="行列操作">
+		<param name="Local" value="报表帮助/格式/行列操作.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="行业模板">
+		<param name="Local" value="报表帮助/模板/行业模板.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="修改口令">
+		<param name="Local" value="文件/修改口令.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="选择模板生成报表">
+		<param name="Local" value="报表帮助/模板/选择模板生成报表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="业务查询">
+		<param name="Local" value="业务查询/业务查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="业务单据导入导出">
+		<param name="Local" value="文件/业务单据导入导出.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="业务账务对照表">
+		<param name="Local" value="账务报表/业务账务对照表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="银行存取款">
+		<param name="Local" value="单据处理/银行存取款.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="银行对账">
+		<param name="Local" value="出纳管理/银行对账/银行对账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="银行对账单">
+		<param name="Local" value="出纳管理/银行对账/银行对账单.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="银行流水账">
+		<param name="Local" value="出纳管理/日常业务/银行流水账.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="应收账款账龄分析">
+		<param name="Local" value="业务查询/应收账款账龄分析.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账表打印">
+		<param name="Local" value="账务处理/账表打印.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账簿查询">
+		<param name="Local" value="账务报表/账簿查询.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账套修复和升级补丁">
+		<param name="Local" value="文件/账套修复和升级补丁.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账套选项">
+		<param name="Local" value="文件/账套选项.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账套选项－其他">
+		<param name="Local" value="文件/账套选项－其他.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账套选项－生产配置">
+		<param name="Local" value="文件/账套选项－生产配置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="找狗说明">
+		<param name="Local" value="系统安装/找狗说明.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="支付工资">
+		<param name="Local" value="工资管理/工资发放/支付工资.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="支票管理">
+		<param name="Local" value="出纳管理/日常业务/支票管理.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="职员">
+		<param name="Local" value="系统初始化/职员.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="职员工资报表">
+		<param name="Local" value="工资管理/职员工资报表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="职员业绩统计">
+		<param name="Local" value="业务查询/职员业绩统计.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="账套选项-自由项配置">
+		<param name="Local" value="文件\账套选项-自由项配置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="自定义项1、2">
+		<param name="Local" value="系统初始化/自定义1、2.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="条码打印">
+		<param name="Local" value="系统初始化/商品条码打印.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生产报损报溢汇总表">
+		<param name="Local" value="生产管理/生产报损报溢汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="材料损耗汇总表">
+		<param name="Local" value="生产管理/材料损耗汇总表.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="多级审核中心">
+		<param name="Local" value="单据处理/单据多级审核中心.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="多级审核设置">
+		<param name="Local" value="文件/单据多级审核设置.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="多级审核查询">
+		<param name="Local" value="业务查询/多级审核查询.htm">
+		</OBJECT>
+</UL>
+</BODY>
+</HTML>

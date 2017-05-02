@@ -1,0 +1,118 @@
+
+
+<head>
+<title>生产模板管理</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" height="502">
+  <tr>
+    <td width="100%" height="36" bgcolor="#DAE6C4">
+      <p align="center"><b><font face="楷体_GB2312" size="5">生产模板管理</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%" height="72">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><font size="2">&nbsp;&nbsp;&nbsp;                
+      &nbsp;  
+      如果你经常使用内容相似的组装单、拆分单，可以考虑使用生产模板来进行简化处理。&nbsp;&nbsp;&nbsp;  
+      初次进入生产模板中，系统没有提供任何模板，需要用户创建。在下述例子中，假使你的存货库中有“主机”、“显示器”两种存货，你经常需要将这两种存货组装生成一种叫“计算机”的存货。</font>        
+    </td>  
+  </tr>  
+  <tr>  
+    <td width="100%" height="142">  
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><b><font size="2">使用步骤：</font></b></p>  
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 1、单击菜单栏中“业务处理—库存业务－生产模板”，系统自动弹出“生产模板”。点击“新增”后，
+		表头上可勾选组装和拆分属性。</font></p>        
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 
+		2、录入编号、名称、生成的存货“计算机”，在“该产品由以下存货组成”中录入“主机”，填入“显示器”，以及规格、数量、型号等有关信息。表示组装一台计算机需要主机、显示器各一台。
+		如果勾选了拆分
+		，则需要录入金额拆分比例，金额拆分比例的合计数应为“1”，表示组装一台计算机拆分为一台主机、一台显示器。金额拆分比例的合计数应为“1”。</font></p>           
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 4、点击“保存”按钮，保存此模板。</font></p>              
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 5、回到模板窗口，可以看见模板已经生成，可以通过点击“修改”、“删除”按钮对其进行修改或删除。&nbsp; </font></p>         
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 
+		6、在使用“组装与拆分单”时，可以“调用模板”，并且录入数量。系统会根据模板内容自动生成单据内容。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 7、模板订单统计，参见下列参考资料。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 
+		8、齐套计算，对选中的存货，根据模板中材料的当前库存计算可以至少组装多少存货。</font></p>
+		<p style="line-height: 150%; margin-top: 0; margin-bottom: 5">
+		<font size="2">&nbsp;&nbsp;&nbsp;&nbsp; 
+		9、缺料计算，对选中的存货，手工录入生产数量后，根据模板中材料的当前库存计算可以还缺多少材料。</font></p>  
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 5">　</p>  
+    </td>  
+  </tr>  
+  <tr>  
+    <td width="100%" height="30">  
+      <font size="2"><br>
+      <b><font color="#800080">参考资料：</font></b></font>
+      &nbsp; 
+      <p><a href="#" onclick="javascript:d1.style.display=(d1.style.display == 'none') ? '' : 'none';return false;">
+<font size="2">模板订单统计</font></a><font size="2"><br>
+</font>
+      </p>
+<div id="d1" style="display:none">
+
+<p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt">　　模板订单统计是针对由生产模板组装而来的存货的统计，例如“联想电脑”由4样配件组成，当销售订单有“联想电脑”100台时，在模板订单统计中可以查询到只针对“联想电脑”的4样配件的库存状况及所需数量，    
+      并且可根据所需配件数量生成进货单或进货订单草稿。</span></font>
+<p style="line-height: 150%; margin-top: 0; margin-bottom: 0">　</p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">表体内容说明：</font></span></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>配套数量 </b>：取自模板订单中组装存货所需的配件数；</font></span></p>   
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>账面库存数量</b>：当前库存中的存货数量；</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>进货订货数量</b>：指进货订单中<font color="#000080">未到货</font>数量；</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>销售订货数量</b>：指销售订单中<font color="#000080">未到货</font>数量；</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>供应商：</b> 
+      取自基本信息中存货所对应的默认供应商；</span></font></p>   
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </font>  
+      </span><font size="2"><span style="FONT-FAMILY: 宋体"><b>计算数量</b></span><span lang="EN-US">=    
+      </span><span style="FONT-FAMILY: 宋体">账面库存数量</span> <span lang="EN-US">–    
+      </span><span style="FONT-FAMILY: 宋体">销售订货中未到货数量；</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </font>  
+      </span><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;&nbsp; 当计算数量</span><span lang="EN-US">&lt; 0</span><span style="FONT-FAMILY: 宋体">，</span>    
+      <span style="FONT-FAMILY: 宋体">说明库存数量不够，需要对配件进行加工。配套存货表体中显示“模板所需数量”一列；</span></font></p>  
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      </font>  
+      </span><font size="2"><span style="FONT-FAMILY: 宋体">当计算数量</span><span lang="EN-US">&gt;=    
+      0</span><span style="FONT-FAMILY: 宋体">，</span>  <span style="FONT-FAMILY: 宋体">说明库存数量充足，不需要对配件进行加工。配套
+		存货表体中不显示“模板所需数量”一列；</span></font></p>  
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </font>  
+      </span><font size="2"><span style="FONT-WEIGHT: 700; FONT-FAMILY: 宋体">可用数量</span><span lang="EN-US"> 
+      = </span><span style="FONT-FAMILY: 宋体">账面库存数量</span> <span lang="EN-US">+    
+      </span><span style="FONT-FAMILY: 宋体">进货订货数量</span> <span lang="EN-US">–    
+      </span><span style="FONT-FAMILY: 宋体">销售订货数量&nbsp; （进货订货数量、销售订货数量均为未到货数量），可点击“公式”按钮进行修改</span>。</font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>模板所需数量</b></font></span><font size="2"><span lang="EN-US"> 
+      = </span><span style="FONT-FAMILY: 宋体">计算数量</span> <span lang="EN-US">x&nbsp;&nbsp; 
+      </span><span style="FONT-FAMILY: 宋体">配套数量</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><span style="FONT-FAMILY: 宋体"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;  
+      </font>  
+      </span><font size="2"><span style="FONT-FAMILY: 宋体"><b>剩余数量</b></span><span lang="EN-US"> 
+      = </span><span style="FONT-FAMILY: 宋体">可用数量</span> <span lang="EN-US">–    
+      </span><span style="FONT-FAMILY: 宋体">模板所需数量</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><span style="FONT-FAMILY: 宋体">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>确认数量</b>：用户填写的需要进货的存货数量；</span></font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0">　</p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font face="宋体" size="2">按钮说明：</font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>修改</b>：修改存货对应的供应商，此处的修改仅是在生成草稿时生效，不会修改基本信息中默认的供应商。</font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>生成草稿</b>：    
+      根据用户输入的确认数量，生成存货的进货单或进货订单草稿。对应相同供应商的存货将会生成一张草稿。</font></p>
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font face="宋体" size="2">&nbsp;&nbsp;&nbsp;&nbsp;    
+      <b>公式</b>：可以修改“可用数量”计算的公式。</font>
+<p>　
+
+</div>
+      　     
+    </td>  
+  </tr>  
+</table>

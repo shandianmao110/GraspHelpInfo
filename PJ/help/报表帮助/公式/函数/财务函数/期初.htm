@@ -1,0 +1,338 @@
+<title>期初</title>
+<table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <p align="left" style="line-height: 150%; margin-top: 0; margin-bottom: 0"><b><font size="2">期初</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+    用于取得各个会计期间的期初金额。<br>
+    <br>
+      <b>
+    格式：</b><br>
+    QC(〈科目编码〉,[〈会计期间〉],[〈方向〉], [〈编码部门〉],[〈编码员工〉], [〈编码往来单位〉] , [〈编码项目〉] ,  
+    [〈编码5预留〉],[〈是否包含未记账〉]) <br>
+    <br>
+      <b>
+    参数说明：</b><br>
+    〈科目编码〉为指定科目的编码。格式为单引号括起来如: ’1001’<br> 
+    〈会计期间〉为指定的会计期间。格式有当前月（’’）, 当前上月（’s’）,关键字月(‘m’),  
+    关键字上月(‘m-1’),1到12数字表示的月份，0为年初期初数。<br>
+    〈方向〉为指定的借贷方向 格式有默认（’’）,借(‘D’),贷(‘L’) 分别统计借贷方金额的合计。<br> 
+    <br>
+    〈编码部门〉,〈编码员工〉,〈编码往来单位〉,〈编码项目〉为辅助核算项目，输入辅助核算项目后，只有辅助核算发生的凭证才会进入统计范围。<br>
+    〈编码5预留〉未使用。<br>
+    〈是否包含未记账〉用于判断是否统计的凭证需要记账。0表示不包括未记账，1表示包括。<br>
+    <br>
+    方向默认（’’）,借(‘D’),贷(‘L’)的取法与发生不同请注意参考下面的例子。<br>
+    <br>
+    例：<br>
+    有如下年初数据：</font><table border="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+      <tr>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">科目</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">余额方向</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">期初余额</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">科目方向</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">1131</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">1100</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">113101</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">1000</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">113102</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">300</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">113103</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">400</font></p>
+        </td>
+        <td width="25%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+      </tr>
+    </table>
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2"><br>
+    1131 年初余额： 1100<br> 
+    公式： QC(‘1131’,0,’’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    <br>
+    1131 年初借方余额： 1400<br> 
+    公式： QC(‘1131’,0,’D’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    <br>
+    1131 年初贷方余额： 300<br> 
+    公式： QC(‘1131’,0,’L’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    113101年初余额： 1000<br> 
+    公式： QC(‘113101’,0,’’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    113101年初借方余额： 1000<br> 
+    公式： QC(‘113101’,0,’D’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    <br>
+    113101年初贷方余额： 0<br> 
+    公式： QC(‘113101’,0,’L’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    <br>
+    又如：</font></p>
+    <table border="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+      <tr>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">科目</font></p>
+ </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门(编号)</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">余额方向</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">年初余额</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">科目方向</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门一(001)</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">1000</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门二(002)</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">300</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门三(003)</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">400</font></p>
+        </td>
+        <td width="20%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+    </table>
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101年初余额： -1100<br> 
+    公式： QC(‘2101’,0,’’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    2101年初借方余额： 1400<br> 
+    公式： QC(‘2101’,0,’D’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    2101年初贷方余额： 300<br> 
+    公式： QC(‘2101’,0,’L’, ‘’,’’, ‘’ ,’’ ,’’,0)<br> 
+    2101部门一年初余额： -1000<br> 
+    公式： QC(‘2101’,0,’’, ‘001’,’’, ‘’ ,’’ ,’’,0)<br> 
+    2101部门一年初借方余额： 1000<br> 
+    公式： QC(‘2101’,0,’D’, ‘001’,’’, ‘’ ,’’ ,’’,0)<br> 
+    <br>
+    2101部门一年初贷方余额： 0<br> 
+    公式： QC(‘2101’,0,’L’, ‘001’,’’, ‘’ ,’’ ,’’,0)<br> 
+    <br>
+    <br>
+    总结：余额指本科目的余额，如果与科目方向相反则取负数；<br>
+    借方或贷方余额指明细科目及辅助核算的明细借方余额或贷方余额<br>
+    <br>
+    考一考</font></p>
+    <table border="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+      <tr>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">科目</font></p>
+        </td>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门(编号)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">项目(编号)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">余额方向</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;年初余额</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">科目方向</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门一(001)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">项目一(X1)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">1000</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门一(001)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">项目二(X2)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">300</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门一(001)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">项目三(X3)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">600</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101</font></p>
+        </td>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门二(002)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">项目一(X1)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">借</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">400</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0">　</p>
+        </td>
+        <td width="16%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">部门二(002)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;项目二(X2)</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">100</font></p>
+        </td>
+        <td width="17%">
+          <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">贷</font></p>
+        </td>
+      </tr>
+    </table>
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0"><font size="2">2101 的年初余额是多少？<br> 
+    2101 的年初借方余额，贷方余额各是多少？<br> 
+    2101部门一的年初余额是多少？<br>
+    2101 部门一年初借方余额，贷方余额各是多少？<br> 
+    　</font></td>
+  </tr>
+</table>
